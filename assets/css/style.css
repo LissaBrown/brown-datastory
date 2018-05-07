@@ -1,0 +1,64 @@
+
+body {
+  font-size: 20px;
+  font-family:  'Abel', sans-serif;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+img.dataviz {
+  width: 100%;
+}
+
+img.datacollection {
+  width: 90%
+}
+
+div.centering-container {
+  display: flex;
+    align-items: center;
+}
+
+iframe.Pinterest {
+  width: 70%
+}
+
+header.title {
+  align-content: center;
+  display: grid;
+  grid-template-columns: minmax(50px, 50px) minmax(100px, 350px)
+  grid-gap:
+}
+
+section.semester {
+  display: grid;
+  grid-template-columns:
+  grid-gap:
+}
+
+section.data {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 30px
+}
+
+section.visualization {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px
+
+}
+
+section.video {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap:10px
+}
